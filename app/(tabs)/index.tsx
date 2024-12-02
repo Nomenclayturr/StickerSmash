@@ -4,7 +4,7 @@ import { useState } from 'react';
 
 import Button from '@/components/Button';
 import ImageViewer from '@/components/ImageViewer';
-
+// Add a icon button and circle button
 import IconButton from '@/components/IconButton';
 import CircleButton from '@/components/CircleButton';
 
